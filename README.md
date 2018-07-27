@@ -1,4 +1,4 @@
-# Huntington Hill Algorithm
+# Huntington Hill Algorithm 🇺🇸🗽
 This is an Algorithm that uses the Huntington Hill method to compute the number of seats in the congress for each state.
 The algorithm runs in time proportional to (m+n) log m for m states and n seats.
 
